@@ -1,16 +1,42 @@
-## Hi there 👋
+Hi, I'm Parkavi Balaji 👋
 
-<!--
-**parkavib22/parkavib22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MCA Student | Aspiring Full Stack Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an MCA student passionate about programming, software development, and exploring new technologies.
+
+👩‍💻 About Me
+
+- 🎓 MCA Student
+- 💻 Aspiring Full Stack Developer
+- 🐍 Interested in Python Programming
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🌱 Currently improving my technical and development skills.
+
+🛠️ Technical Skills
+
+- Python
+- HTML
+- CSS
+- Java
+- PHP
+- MySQL
+
+🚀 My Projects
+
+- Point Of Sales System (POS)
+- Mail Summarization using Python AI
+- Kia Motors Customer Preference Analysis
+
+🎯 Career Goal
+
+To become a skilled Full Stack Developer and build innovative software solutions.
+
+📫 Connect With Me
+
+- GitHub: "@parkavib22" (https://github.com/parkavib22)
+
+---
+
+⭐ Thanks for visiting my profile!
